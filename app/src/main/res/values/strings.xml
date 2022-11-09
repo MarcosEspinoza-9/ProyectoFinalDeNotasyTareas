@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notas y Tareas</string>
+    <string name="buscar">Buscar</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="icono_lupa">icono_lupa</string>
+    <string name="bienvenida">Bienvenida</string>
+</resources>
